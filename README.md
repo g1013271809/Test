@@ -1,3 +1,3 @@
 #
-nice bro
+nice bro\n
 great
